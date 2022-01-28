@@ -6,7 +6,7 @@ Here, you will find the code (and most data) supporting our [academic publicatio
 
 ## People
 
-- Prof. [Andy Przybylski](https://www.przybylski.xyz/)
-- Dr. [Niklas Johannes](https://www.niklasjohannes.com/)
-- Dr. [Matti Vuorre](https://github.com/mvuorre)
-- Dr. [Kristoffer Magnusson](https://rpsychologist.com/)
+- Prof. [Andy Przybylski](https://www.przybylski.xyz/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/andrew-przybylski/))
+- Dr. [Niklas Johannes](https://www.niklasjohannes.com/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/niklas-johannes/))
+- Dr. [Matti Vuorre](https://github.com/mvuorre) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/matti-vuorre/))
+- Dr. [Kristoffer Magnusson](https://rpsychologist.com/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/kristoffer-magnusson/) & Karolinska Institutet)
