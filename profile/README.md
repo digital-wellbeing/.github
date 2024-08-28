@@ -10,7 +10,7 @@ Here, you will find the code (and most data) supporting our [academic publicatio
 - Dr. [Matti Vuorre](https://github.com/mvuorre) ([Tilburg University](https://www.tilburguniversity.edu/staff/m-j-vuorre) & [Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/matti-vuorre/))
 - Dr. [Kristoffer Magnusson](https://rpsychologist.com/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/kristoffer-magnusson/) & Karolinska Institutet)
 - Mr. [Thomas Hakman](https://www.oii.ox.ac.uk/people/profiles/thomas-hakman/)
-- Mr. [Nick Ballou](https://nickballou.com) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/nick-ballou/))
+- Dr. [Nick Ballou](https://nickballou.com) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/nick-ballou/))
 
 ### Past members and collaborators
 
