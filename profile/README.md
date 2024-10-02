@@ -11,7 +11,7 @@ Here, you will find the code (and most data) supporting our [academic publicatio
 - Dr. [Kristoffer Magnusson](https://rpsychologist.com/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/kristoffer-magnusson/) & Karolinska Institutet)
 - Mr. [Thomas Hakman](https://www.oii.ox.ac.uk/people/profiles/thomas-hakman/)
 - Dr. [Nick Ballou](https://nickballou.com) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/nick-ballou/))
-
+- Dr. [Tamas Foldes](https://andreifoldes.github.io) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/tamas-foldes/))
 ### Past members and collaborators
 
 - Dr. [Niklas Johannes](https://www.niklasjohannes.com/) ([Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/niklas-johannes/))
